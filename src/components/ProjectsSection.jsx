@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const projects = [
   {
     id: 1,
-    title: "Nexora Landing Page",
+    title: "Nexora SaaS Landing Page",
     description: "An interactive SaaS landing page built with React, featuring smooth animations, responsive design, and immersive 3D visuals using Spline.",
     image: "/projects/project1.png",
     tags: ["Java", "JDBC", "MySql"],
