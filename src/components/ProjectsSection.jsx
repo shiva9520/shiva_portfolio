@@ -7,7 +7,7 @@ const projects = [
     title: "Nexora SaaS Landing Page",
     description: "An interactive SaaS landing page built with React, featuring smooth animations, responsive design, and immersive 3D visuals using Spline.",
     image: "/projects/project1.png",
-    tags: ["Java", "JDBC", "MySql"],
+    tags: ['ReactJS', 'Tailwind CSS', 'AOS', 'Spline 3D'],
     demoUrl:"https://nexora-pi-nine.vercel.app/",
     githubUrl: "https://github.com/shiva9520/Nexora",
   },
