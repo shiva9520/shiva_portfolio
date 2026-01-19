@@ -4,11 +4,12 @@ import { motion } from "framer-motion";
 const projects = [
   {
     id: 1,
-    title: "Student Management System",
-    description: "A Java–MySQL console application that efficiently manages student records with full CRUD operations using JDBC.",
+    title: "Nexora Landing Page",
+    description: "An interactive SaaS landing page built with React, featuring smooth animations, responsive design, and immersive 3D visuals using Spline.",
     image: "/projects/project1.png",
     tags: ["Java", "JDBC", "MySql"],
-    githubUrl: "https://github.com/shiva9520/Student_Management_System",
+    demoUrl:"https://nexora-pi-nine.vercel.app/",
+    githubUrl: "https://github.com/shiva9520/Nexora",
   },
   {
     id: 2,
@@ -29,7 +30,7 @@ const projects = [
     tags: ["React Native", "Firebase"],
     demoUrl: "https://drive.google.com/file/d/1YllYVc03vg4I9EG2Aj6CaaIc2_W8cQp4/view?usp=sharing",
     githubUrl: "https://github.com/shiva9520/InventoX",
-  },
+  }, 
 ];
 
 export const ProjectsSection = () => {
