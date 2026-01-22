@@ -13,13 +13,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "CineHub - Movie Information Platform",
+    title: "SaaS Gaming Website",
     description:
-      "A responsive React-based web platform for browsing and exploring movies with detailed information, ratings, and reviews.",
+      "A modern SaaS gaming platform built with React and Tailwind CSS, featuring responsive design, rich game metadata, and smooth GSAP-powered animations.",
     image: "/projects/project2.png",
-    tags: ["React.js", "TailwindCSS"],
-    demoUrl: "https://appymovie.netlify.app/",
-    githubUrl: "https://github.com/shiva9520/movie-app",
+    tags: ["React.js", "TailwindCSS","GSAP"],
+    demoUrl: "https://gaming-website-sable-phi.vercel.app/",
+    githubUrl: "https://github.com/shiva9520/gaming-website",
   },
   {
     id: 3,
