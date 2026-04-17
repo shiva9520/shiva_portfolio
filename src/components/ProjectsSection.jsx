@@ -23,6 +23,16 @@ const projects = [
   },
   {
     id: 3,
+    title: "VaultX",
+    description:
+     "A modern finance management mobile app built with React Native and TypeScript, featuring secure Firebase authentication, transaction tracking, Redux-powered state management, and a smooth responsive UI.",
+    image: "/projects/project4.png",
+    tags: ["React Native", "Typescript","Firebase", "Redux Toolkit"],
+    demoUrl: "https://github-production-user-asset-6210df.s3.amazonaws.com/119184406/574320521-72c144f4-2cce-4f4f-80a3-c903358b26bd.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260417%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260417T171945Z&X-Amz-Expires=300&X-Amz-Signature=0562366a1e62a22c5ae77ec398de4a7d166f7ccf214e7cd3f2c9ef3316a6608b&X-Amz-SignedHeaders=host&response-content-type=video%2Fmp4",
+    githubUrl: "https://github.com/shiva9520/vaultX",
+  },
+  {
+    id: 4,
     title: "InventoX",
     description:
       "A cross-platform React Native inventory management app with Firebase authentication and real-time stock tracking.",
